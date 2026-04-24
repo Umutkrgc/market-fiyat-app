@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment secrets
+.env
+
+# Logs
+admin_logs/
+npm-debug.log*
+*.log
+*.txt
+*.html
+
+# Database
+*.db
+*.sqlite
+market.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary Scripts
+test-pup.js
+test-scrape.js
+sok-output.html
